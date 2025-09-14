@@ -47,6 +47,14 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Renaissance By Steph mystical colors
+        mystical: {
+          purple: "hsl(var(--mystical-purple))",
+          "purple-light": "hsl(var(--mystical-purple-light))",
+          orange: "hsl(var(--mystical-orange))",
+          "orange-light": "hsl(var(--mystical-orange-light))",
+          white: "hsl(var(--mystical-white))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
